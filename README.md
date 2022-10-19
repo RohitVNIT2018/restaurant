@@ -21,3 +21,13 @@ go test ./analyzeTest -v
 PASS
 ok      task/analyzeTest        1.595s
 </pre>
+
+Here I have written two basic functions
+<br/>
+1)CheckDuplicates()
+<br/>
+2)TopItemsConsumed(num int)
+<br/>
+I have used both function in main to show their outputs. You can use these functions as per the need and logic required.
+<br/>
+Also, I have written simple test case for each of these function.
